@@ -1,0 +1,28 @@
+Taille : 2
+Nombre de boucles : 14
+Nombre de boucles depuis le début : 14
+Temps écoulé : 14 ms
+Temps écoulé depuis le début : 14 ms
+Nombre : 69
+
+Taille : 4
+Nombre de boucles : 13372
+Nombre de boucles depuis le début : 13386
+Temps écoulé : 6 ms
+Temps écoulé depuis le début : 21 ms
+Nombre : 6969
+
+Taille : 6
+Nombre de boucles : 552849
+Nombre de boucles depuis le début : 566235
+Temps écoulé : 102 ms
+Temps écoulé depuis le début : 129 ms
+Nombre : 696969
+
+Taille : 8
+Nombre de boucles : 30793715
+Nombre de boucles depuis le début : 31359950
+Temps écoulé : 5 s
+Temps écoulé depuis le début : 5 s
+Nombre : 69696969
+
